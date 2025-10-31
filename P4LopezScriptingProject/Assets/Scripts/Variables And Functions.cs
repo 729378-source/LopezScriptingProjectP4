@@ -30,7 +30,7 @@ public class VariablesAndFunctions : MonoBehaviour
         //create a local variable
         int result;
 
-        /multiplying the num,ber by two
+        //multiplying the number by two
             result = number * 2;
 
         //return the value
